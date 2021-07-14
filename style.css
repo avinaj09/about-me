@@ -1,4 +1,15 @@
 h1, h2, p {
   text-align: center;
 }
+p {
+  color: rgb(71, 98, 173);
+}
 
+li {
+  color: rgb(76, 151, 58);
+}
+
+a:link {color: red;}
+a:hover {color: green;}
+a:active {color: brown;}
+a:visited {color: pink;}
