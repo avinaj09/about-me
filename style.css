@@ -1,9 +1,11 @@
 h1 {
-font-family: cursive;
+  font-family: cursive;
   font-size: 60px;
+  color: rgb(63, 97, 160); 
+   
 }
 
-h1, h2, p {
+h1, h2 {
   text-align: center;
 }
 p {
