@@ -25,6 +25,17 @@ p {
 li {
   color: rgb(37, 70, 29);
 }
+
+/* This part is going to add some background color to the web page */
+
+header {
+  background-color: #f4f1de;
+}
+
+main {
+  background-color: #f4f1de
+}
+
 /* this changes the color of the links on the website, based on if they have been activated or not and if the mouse is hovering over the link or not. */
 a:link {color: rgb(82, 20, 20);}
 a:hover {color: rgb(32, 75, 32);}
