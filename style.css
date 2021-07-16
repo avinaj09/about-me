@@ -1,5 +1,3 @@
-/* general styling */
-
 h1 {
   font-family: cursive;
   font-size: 60px;
@@ -7,11 +5,16 @@ h1 {
    
 }
 
+h2 {
+  color: pink;
+}
+
 h1, h2 {
   text-align: center;
 }
 p {
   color: rgb(71, 98, 173);
+  text-align: center;
 }
 
 li {
@@ -23,6 +26,6 @@ a:hover {color: green;}
 a:active {color: brown;}
 a:visited {color: pink;}
 
-.logo {
-  font-size: 16px;
+
+nav {
 }
