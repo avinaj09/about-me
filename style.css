@@ -31,7 +31,8 @@ a:hover {color: rgb(32, 75, 32);}
 a:active {color: rgb(46, 8, 8);}
 a:visited {color: rgb(124, 68, 78);}
 
-img {
-max-height: 100px;
-max-width: 100px;
+img, iframe { 
+  width: 100%;	
+  border-radius: 8px;
+  border: 1px solid #c5c0b8;
 }
