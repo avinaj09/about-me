@@ -20,11 +20,10 @@ p {
 li {
   color: rgb(37, 70, 29);
 }
+/* this changes the colors of the links */
 
 a:link {color: rgb(82, 20, 20);}
 a:hover {color: rgb(32, 75, 32);}
 a:active {color: rgb(46, 8, 8);}
 a:visited {color: rgb(124, 68, 78);}
 
-nav {
-}
