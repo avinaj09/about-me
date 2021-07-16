@@ -31,3 +31,7 @@ a:hover {color: rgb(32, 75, 32);}
 a:active {color: rgb(46, 8, 8);}
 a:visited {color: rgb(124, 68, 78);}
 
+img {
+max-height: 100px;
+max-width: 100px;
+}
