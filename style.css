@@ -6,7 +6,7 @@ h1 {
 }
 
 h2 {
-  color: pink;
+  color: rbg(189, 135, 144);
 }
 
 h1, h2 {
