@@ -1,3 +1,5 @@
+/* The heading-! is customized using a differnt font, color, size and spacing than the other headings */
+
 h1 {
   font-family: cursive;
   font-size: 60px;
@@ -10,20 +12,20 @@ h2 {
   color: rgb(151, 67, 81);
   margin-top: 10px;
 }
-
-h1, h2 {
+/* Making sure that the headings and paragraphs are all centered when shown. */
+h1, h2, p {
   text-align: center;
 }
+/* This is some cosmetic changes of color and font size */
 p {
   color: rgb(71, 98, 173);
-  text-align: center;
   height: 35
 }
 
 li {
   color: rgb(37, 70, 29);
 }
-
+/* this changes the color of the links on the website, based on if they have been activated or not and if the mouse is hovering over the link or not. */
 a:link {color: rgb(82, 20, 20);}
 a:hover {color: rgb(32, 75, 32);}
 a:active {color: rgb(46, 8, 8);}
