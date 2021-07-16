@@ -30,7 +30,7 @@ a:link {color: rgb(82, 20, 20);}
 a:hover {color: rgb(32, 75, 32);}
 a:active {color: rgb(46, 8, 8);}
 a:visited {color: rgb(124, 68, 78);}
-
+/* this is going to change the size of the image. */
 img { 
   width: 200px;
   height: 200px;
