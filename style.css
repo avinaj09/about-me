@@ -2,11 +2,13 @@ h1 {
   font-family: cursive;
   font-size: 60px;
   color: rgb(63, 97, 160); 
-   
+   padding-top: 20px;
+   padding-bottom: 10px
 }
 
 h2 {
-  color: rbg(151, 67, 81);
+  color: rgb(151, 67, 81);
+  margin-top: 10px;
 }
 
 h1, h2 {
@@ -15,12 +17,12 @@ h1, h2 {
 p {
   color: rgb(71, 98, 173);
   text-align: center;
+  height: 35
 }
 
 li {
   color: rgb(37, 70, 29);
 }
-/* this changes the colors of the links */
 
 a:link {color: rgb(82, 20, 20);}
 a:hover {color: rgb(32, 75, 32);}
